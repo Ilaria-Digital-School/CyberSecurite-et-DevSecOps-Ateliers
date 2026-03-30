@@ -9,3 +9,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [01. Atelier guidé : associer chaque terme à un cas concret](01-atelier-guid-associer-chaque-terme-un-cas-concret/)
 - [02. Atelier guidé : identifier le pilier CIA menacé](02-atelier-guid-identifier-le-pilier-cia-menac/)
 - [03. Atelier de variation : créer vos propres exemples de menaces](03-atelier-de-variation-cr-er-vos-propres-exemples-de-menaces/)
+- [04. Atelier guidé : reconnaître la menace sur une capture d’écran](04-atelier-guid-reconna-tre-la-menace-sur-une-capture-d-cran/)
