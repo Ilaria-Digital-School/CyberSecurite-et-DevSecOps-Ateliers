@@ -11,3 +11,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [03. Atelier de variation : créer vos propres exemples de menaces](03-atelier-de-variation-cr-er-vos-propres-exemples-de-menaces/)
 - [04. Atelier guidé : reconnaître la menace sur une capture d’écran](04-atelier-guid-reconna-tre-la-menace-sur-une-capture-d-cran/)
 - [05. Atelier guidé : visualiser un pipeline CI/CD simplifié](05-atelier-guid-visualiser-un-pipeline-ci-cd-simplifi/)
+- [06. Atelier guidé : placer des contrôles sécurité dans un pipeline imaginaire](06-atelier-guid-placer-des-contr-les-s-curit-dans-un-pipeline-imaginaire/)

@@ -17,4 +17,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 03. [Atelier de variation : créer vos propres exemples de menaces](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/63e946e2-25de-4819-b20d-94fd23358fd1/atelier-de-variation-crer-vos-propres-exemples-de-menaces)
 04. [Atelier guidé : reconnaître la menace sur une capture d’écran](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/30e94646-ead2-4248-abc9-b53624739b32/atelier-guid-reconnatre-la-menace-sur-une-capture-d-cran)
 05. [Atelier guidé : visualiser un pipeline CI/CD simplifié](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/b9dd1c8c-9993-48d2-ac5e-db22a8944c85/atelier-guid-visualiser-un-pipeline-ci-cd-simplifi)
+06. [Atelier guidé : placer des contrôles sécurité dans un pipeline imaginaire](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/adf4bed4-ebad-4a61-88cd-af969009f868/atelier-guid-placer-des-contrles-scurit-dans-un-pipeline-imaginaire)
 
