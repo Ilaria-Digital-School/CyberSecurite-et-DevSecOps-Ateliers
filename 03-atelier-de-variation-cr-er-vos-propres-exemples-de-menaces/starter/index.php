@@ -1,2 +1,0 @@
-<?php
-// Atelier de variation : créer vos propres exemples de menaces

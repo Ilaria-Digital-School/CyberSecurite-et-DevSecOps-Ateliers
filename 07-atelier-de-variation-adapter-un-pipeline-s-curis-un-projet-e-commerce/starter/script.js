@@ -1,1 +1,0 @@
-// Atelier de variation : adapter un pipeline sécurisé à un projet e-commerce
