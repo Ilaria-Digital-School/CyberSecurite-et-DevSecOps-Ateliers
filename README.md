@@ -13,3 +13,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [05. Atelier : visualiser un pipeline CI/CD simplifié](05-atelier-visualiser-un-pipeline-ci-cd-simplifi/)
 - [06. Atelier : placer des contrôles sécurité dans un pipeline imaginaire](06-atelier-placer-des-contr-les-s-curit-dans-un-pipeline-imaginaire/)
 - [07. Atelier : Adapter un pipeline sécurisé à un projet e-commerce](07-atelier-adapter-un-pipeline-s-curis-un-projet-e-commerce/)
+- [08. Mini-projet : écrire une user-story orientée sécurité](08-mini-projet-crire-une-user-story-orient-e-s-curit/)
