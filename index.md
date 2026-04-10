@@ -20,4 +20,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 06. [Atelier : placer des contrôles sécurité dans un pipeline imaginaire](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/adf4bed4-ebad-4a61-88cd-af969009f868/atelier-placer-des-contrles-scurit-dans-un-pipeline-imaginaire)
 07. [Atelier : Adapter un pipeline sécurisé à un projet e-commerce](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/5e7155e7-4424-4cde-a243-dcd32e5abdd0/atelier-adapter-un-pipeline-scuris-un-projet-e-commerce)
 08. [Mini-projet : écrire une user-story orientée sécurité](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/898f3f38-4360-4a8f-b2a6-b9a20bd06bec/mini-projet-crire-une-user-story-oriente-scurit)
+09. [Atelier : installer et vérifier la machine virtuelle de lab](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/206e3fd8-15af-4198-857b-aeee9c52f362/atelier-installer-et-vrifier-la-machine-virtuelle-de-lab)
 
