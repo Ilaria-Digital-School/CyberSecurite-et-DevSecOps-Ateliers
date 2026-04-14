@@ -1,0 +1,2 @@
+<?php
+// Atelier : premières manipulations Git (clone, commit)
