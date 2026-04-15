@@ -16,3 +16,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [08. Mini-projet : écrire une user-story orientée sécurité](08-mini-projet-crire-une-user-story-orient-e-s-curit/)
 - [09. Atelier : installer et vérifier la machine virtuelle de lab](09-atelier-installer-et-v-rifier-la-machine-virtuelle-de-lab/)
 - [10. Atelier : premières manipulations Git (clone, commit)](10-atelier-premi-res-manipulations-git-clone-commit/)
+- [11. Atelier : simuler un secret committé et le corriger](11-atelier-simuler-un-secret-committ-et-le-corriger/)
