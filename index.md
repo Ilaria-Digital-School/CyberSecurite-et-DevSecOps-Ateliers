@@ -24,4 +24,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 10. [Atelier : premières manipulations Git (clone, commit)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/228f4529-0e0f-498f-b314-f47f65e3f45e/atelier-premires-manipulations-git-clone-commit)
 11. [Atelier : simuler un secret committé et le corriger](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/794de7a1-bc45-4e64-8c68-3ff4685eddb7/atelier-simuler-un-secret-committ-et-le-corriger)
 12. [Atelier : configurer une règle pre-commit basique](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/b76723de-7e61-480e-b921-2ed2b0ed6c19/atelier-configurer-une-rgle-pre-commit-basique)
+13. [Atelier : cartographier l’OWASP Top 10 sur le pipeline](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/229e9463-a466-4811-9956-e466f5b8477b/atelier-cartographier-l-owasp-top-10-sur-le-pipeline)
 

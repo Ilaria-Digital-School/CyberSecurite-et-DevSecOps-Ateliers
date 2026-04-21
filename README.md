@@ -18,3 +18,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [10. Atelier : premières manipulations Git (clone, commit)](10-atelier-premi-res-manipulations-git-clone-commit/)
 - [11. Atelier : simuler un secret committé et le corriger](11-atelier-simuler-un-secret-committ-et-le-corriger/)
 - [12. Atelier : configurer une règle pre-commit basique](12-atelier-configurer-une-r-gle-pre-commit-basique/)
+- [13. Atelier : cartographier l’OWASP Top 10 sur le pipeline](13-atelier-cartographier-l-owasp-top-10-sur-le-pipeline/)
