@@ -20,3 +20,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [12. Atelier : configurer une règle pre-commit basique](12-atelier-configurer-une-r-gle-pre-commit-basique/)
 - [13. Atelier : cartographier l’OWASP Top 10 sur le pipeline](13-atelier-cartographier-l-owasp-top-10-sur-le-pipeline/)
 - [14. Atelier : placer les tests sécurité dans un workflow existant](14-atelier-placer-les-tests-s-curit-dans-un-workflow-existant/)
+- [15. Mini-projet : créer un mini-pipeline YAML avec étapes sécurité commentées](15-mini-projet-cr-er-un-mini-pipeline-yaml-avec-tapes-s-curit-comment-es/)

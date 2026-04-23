@@ -26,4 +26,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 12. [Atelier : configurer une règle pre-commit basique](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/b76723de-7e61-480e-b921-2ed2b0ed6c19/atelier-configurer-une-rgle-pre-commit-basique)
 13. [Atelier : cartographier l’OWASP Top 10 sur le pipeline](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/229e9463-a466-4811-9956-e466f5b8477b/atelier-cartographier-l-owasp-top-10-sur-le-pipeline)
 14. [Atelier : placer les tests sécurité dans un workflow existant](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/636047de-9139-4239-bbdd-4ab168670a0a/atelier-placer-les-tests-scurit-dans-un-workflow-existant)
+15. [Mini-projet : créer un mini-pipeline YAML avec étapes sécurité commentées](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/ce1220ec-2d18-4a02-8e9a-6c017fd600a7/mini-projet-crer-un-mini-pipeline-yaml-avec-tapes-scurit-commentes)
 
