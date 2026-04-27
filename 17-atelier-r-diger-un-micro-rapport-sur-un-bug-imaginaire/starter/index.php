@@ -1,0 +1,2 @@
+<?php
+// Atelier : Rédiger un micro-rapport sur un bug imaginaire

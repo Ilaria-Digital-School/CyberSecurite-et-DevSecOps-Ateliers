@@ -22,3 +22,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [14. Atelier : placer les tests sécurité dans un workflow existant](14-atelier-placer-les-tests-s-curit-dans-un-workflow-existant/)
 - [15. Mini-projet : créer un mini-pipeline YAML avec étapes sécurité commentées](15-mini-projet-cr-er-un-mini-pipeline-yaml-avec-tapes-s-curit-comment-es/)
 - [16. Atelier : extraire les informations clés du rapport](16-atelier-extraire-les-informations-cl-s-du-rapport/)
+- [17. Atelier : Rédiger un micro-rapport sur un bug imaginaire](17-atelier-r-diger-un-micro-rapport-sur-un-bug-imaginaire/)
