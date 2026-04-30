@@ -23,3 +23,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [15. Mini-projet : créer un mini-pipeline YAML avec étapes sécurité commentées](15-mini-projet-cr-er-un-mini-pipeline-yaml-avec-tapes-s-curit-comment-es/)
 - [16. Atelier : extraire les informations clés du rapport](16-atelier-extraire-les-informations-cl-s-du-rapport/)
 - [17. Atelier : Rédiger un micro-rapport sur un bug imaginaire](17-atelier-r-diger-un-micro-rapport-sur-un-bug-imaginaire/)
+- [18. Cartographier son réseau domestique](18-cartographier-son-r-seau-domestique/)

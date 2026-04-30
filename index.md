@@ -29,4 +29,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 15. [Mini-projet : créer un mini-pipeline YAML avec étapes sécurité commentées](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/ce1220ec-2d18-4a02-8e9a-6c017fd600a7/mini-projet-crer-un-mini-pipeline-yaml-avec-tapes-scurit-commentes)
 16. [Atelier : extraire les informations clés du rapport](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/930516c4-8844-4830-bea4-8dfee3abcdc8/atelier-extraire-les-informations-cls-du-rapport)
 17. [Atelier : Rédiger un micro-rapport sur un bug imaginaire](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/facd8354-ce37-4237-bbf0-40a06c727d24/atelier-rdiger-un-micro-rapport-sur-un-bug-imaginaire)
+18. [Cartographier son réseau domestique](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/03dcc27d-e25c-4971-9452-70fe9566d2c1/cartographier-son-rseau-domestique)
 
