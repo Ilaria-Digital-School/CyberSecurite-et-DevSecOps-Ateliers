@@ -30,4 +30,6 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 16. [Atelier : extraire les informations clés du rapport](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/930516c4-8844-4830-bea4-8dfee3abcdc8/atelier-extraire-les-informations-cls-du-rapport)
 17. [Atelier : Rédiger un micro-rapport sur un bug imaginaire](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/9adaf497-120b-4302-bb66-548483ef7fcc/facd8354-ce37-4237-bbf0-40a06c727d24/atelier-rdiger-un-micro-rapport-sur-un-bug-imaginaire)
 18. [Cartographier son réseau domestique](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/03dcc27d-e25c-4971-9452-70fe9566d2c1/cartographier-son-rseau-domestique)
+19. [Observer un paquet ICMP avec ping](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/30201cb9-2283-4e2d-85dd-d34f39d7133a/observer-un-paquet-icmp-avec-ping)
+20. [Associer adresses IP à l’équipement](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/4882e9f4-23c7-4de8-8580-3df2084accf2/associer-adresses-ip-l-quipement)
 

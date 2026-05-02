@@ -24,3 +24,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [16. Atelier : extraire les informations clés du rapport](16-atelier-extraire-les-informations-cl-s-du-rapport/)
 - [17. Atelier : Rédiger un micro-rapport sur un bug imaginaire](17-atelier-r-diger-un-micro-rapport-sur-un-bug-imaginaire/)
 - [18. Cartographier son réseau domestique](18-cartographier-son-r-seau-domestique/)
+- [19. Observer un paquet ICMP avec ping](19-observer-un-paquet-icmp-avec-ping/)
+- [20. Associer adresses IP à l’équipement](20-associer-adresses-ip-l-quipement/)
