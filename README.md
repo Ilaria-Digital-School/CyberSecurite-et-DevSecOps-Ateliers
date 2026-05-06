@@ -26,3 +26,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [18. Cartographier son réseau domestique](18-cartographier-son-r-seau-domestique/)
 - [19. Observer un paquet ICMP avec ping](19-observer-un-paquet-icmp-avec-ping/)
 - [20. Associer adresses IP à l’équipement](20-associer-adresses-ip-l-quipement/)
+- [21. Visualiser un flux réseau avec simulateur en ligne](21-visualiser-un-flux-r-seau-avec-simulateur-en-ligne/)

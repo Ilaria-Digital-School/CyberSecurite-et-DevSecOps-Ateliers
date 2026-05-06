@@ -32,4 +32,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 18. [Cartographier son réseau domestique](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/03dcc27d-e25c-4971-9452-70fe9566d2c1/cartographier-son-rseau-domestique)
 19. [Observer un paquet ICMP avec ping](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/30201cb9-2283-4e2d-85dd-d34f39d7133a/observer-un-paquet-icmp-avec-ping)
 20. [Associer adresses IP à l’équipement](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/4882e9f4-23c7-4de8-8580-3df2084accf2/associer-adresses-ip-l-quipement)
+21. [Visualiser un flux réseau avec simulateur en ligne](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/fc7d5004-4457-49b4-8bb0-d000d2419545/visualiser-un-flux-rseau-avec-simulateur-en-ligne)
 
