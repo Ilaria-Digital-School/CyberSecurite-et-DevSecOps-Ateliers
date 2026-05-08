@@ -34,4 +34,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 20. [Associer adresses IP à l’équipement](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/4882e9f4-23c7-4de8-8580-3df2084accf2/associer-adresses-ip-l-quipement)
 21. [Visualiser un flux réseau avec simulateur en ligne](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/fc7d5004-4457-49b4-8bb0-d000d2419545/visualiser-un-flux-rseau-avec-simulateur-en-ligne)
 22. [Empiler les couches (activité Lego virtuelle)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/47a2d8de-306d-4e77-bb3c-cf1d5d55b0d2/empiler-les-couches-activit-lego-virtuelle)
+23. [Choisir le bon câble (scénario interactif)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/4d175dc7-5ac2-4e96-badc-632c58fa3d9c/choisir-le-bon-cble-scnario-interactif)
 

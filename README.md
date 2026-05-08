@@ -28,3 +28,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [20. Associer adresses IP à l’équipement](20-associer-adresses-ip-l-quipement/)
 - [21. Visualiser un flux réseau avec simulateur en ligne](21-visualiser-un-flux-r-seau-avec-simulateur-en-ligne/)
 - [22. Empiler les couches (activité Lego virtuelle)](22-empiler-les-couches-activit-lego-virtuelle/)
+- [23. Choisir le bon câble (scénario interactif)](23-choisir-le-bon-c-ble-sc-nario-interactif/)
