@@ -35,4 +35,6 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 21. [Visualiser un flux réseau avec simulateur en ligne](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/fc7d5004-4457-49b4-8bb0-d000d2419545/visualiser-un-flux-rseau-avec-simulateur-en-ligne)
 22. [Empiler les couches (activité Lego virtuelle)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/47a2d8de-306d-4e77-bb3c-cf1d5d55b0d2/empiler-les-couches-activit-lego-virtuelle)
 23. [Choisir le bon câble (scénario interactif)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/4d175dc7-5ac2-4e96-badc-632c58fa3d9c/choisir-le-bon-cble-scnario-interactif)
+24. [Lire une trame Ethernet capturée](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/c84491c5-190d-4210-ab9e-61be40fa9c0b/lire-une-trame-ethernet-capture)
+25. [Repérer les erreurs dans une trame](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/4e9b2bb1-9290-4d55-a582-eb209a84b0d7/reprer-les-erreurs-dans-une-trame)
 
