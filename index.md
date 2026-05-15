@@ -39,4 +39,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 25. [Repérer les erreurs dans une trame](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/4e9b2bb1-9290-4d55-a582-eb209a84b0d7/reprer-les-erreurs-dans-une-trame)
 26. [Utiliser traceroute pour voir les sauts](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/bb245b55-b39a-4548-9879-14af6f9b4d50/utiliser-traceroute-pour-voir-les-sauts)
 27. [Analyser une sortie traceroute](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/aede4401-f6bc-4f44-89dd-b555f1961007/analyser-une-sortie-traceroute)
+28. [Mini-projet ramp-up : documenter le chemin d’un paquet vers un site web](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/e9b82e18-9920-4784-a20f-494bd03ac0e3/mini-projet-ramp-up-documenter-le-chemin-d-un-paquet-vers-un-site-web)
 

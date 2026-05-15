@@ -33,3 +33,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [25. Repérer les erreurs dans une trame](25-rep-rer-les-erreurs-dans-une-trame/)
 - [26. Utiliser traceroute pour voir les sauts](26-utiliser-traceroute-pour-voir-les-sauts/)
 - [27. Analyser une sortie traceroute](27-analyser-une-sortie-traceroute/)
+- [28. Mini-projet ramp-up : documenter le chemin d’un paquet vers un site web](28-mini-projet-ramp-up-documenter-le-chemin-d-un-paquet-vers-un-site-web/)
