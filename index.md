@@ -42,4 +42,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 28. [Mini-projet ramp-up : documenter le chemin d’un paquet vers un site web](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/e9b82e18-9920-4784-a20f-494bd03ac0e3/mini-projet-ramp-up-documenter-le-chemin-d-un-paquet-vers-un-site-web)
 29. [Établir un handshake TCP via netcat](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/b72b4159-2af6-4602-af63-7ae5ed388c7e/tablir-un-handshake-tcp-via-netcat)
 30. [Scanner des ports avec Nmap (niveau débutant)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/f2644b85-713f-4644-9334-89f7fa99e087/scanner-des-ports-avec-nmap-niveau-dbutant)
+31. [Capturer un handshake TCP avec Wireshark](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/881ea9a4-5c3f-45c3-9014-6ba3d6daf04c/capturer-un-handshake-tcp-avec-wireshark)
 

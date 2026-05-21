@@ -36,3 +36,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [28. Mini-projet ramp-up : documenter le chemin d’un paquet vers un site web](28-mini-projet-ramp-up-documenter-le-chemin-d-un-paquet-vers-un-site-web/)
 - [29. Établir un handshake TCP via netcat](29-tablir-un-handshake-tcp-via-netcat/)
 - [30. Scanner des ports avec Nmap (niveau débutant)](30-scanner-des-ports-avec-nmap-niveau-d-butant/)
+- [31. Capturer un handshake TCP avec Wireshark](31-capturer-un-handshake-tcp-avec-wireshark/)
