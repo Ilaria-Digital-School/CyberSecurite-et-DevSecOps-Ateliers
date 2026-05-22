@@ -37,3 +37,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [29. Établir un handshake TCP via netcat](29-tablir-un-handshake-tcp-via-netcat/)
 - [30. Scanner des ports avec Nmap (niveau débutant)](30-scanner-des-ports-avec-nmap-niveau-d-butant/)
 - [31. Capturer un handshake TCP avec Wireshark](31-capturer-un-handshake-tcp-avec-wireshark/)
+- [32. Filtrer trafic UDP DNS](32-filtrer-trafic-udp-dns/)
