@@ -38,3 +38,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [30. Scanner des ports avec Nmap (niveau débutant)](30-scanner-des-ports-avec-nmap-niveau-d-butant/)
 - [31. Capturer un handshake TCP avec Wireshark](31-capturer-un-handshake-tcp-avec-wireshark/)
 - [32. Filtrer trafic UDP DNS](32-filtrer-trafic-udp-dns/)
+- [33. Calculer la plage d’adresses /24 et /26](33-calculer-la-plage-d-adresses-24-et-26/)
+- [34. Ajuster le sous-réseau pour un besoin](34-ajuster-le-sous-r-seau-pour-un-besoin/)

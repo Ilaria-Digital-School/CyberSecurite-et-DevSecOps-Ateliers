@@ -44,4 +44,6 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 30. [Scanner des ports avec Nmap (niveau débutant)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/f2644b85-713f-4644-9334-89f7fa99e087/scanner-des-ports-avec-nmap-niveau-dbutant)
 31. [Capturer un handshake TCP avec Wireshark](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/881ea9a4-5c3f-45c3-9014-6ba3d6daf04c/capturer-un-handshake-tcp-avec-wireshark)
 32. [Filtrer trafic UDP DNS](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/718e701f-b134-4052-8018-1e9d16efa065/filtrer-trafic-udp-dns)
+33. [Calculer la plage d’adresses /24 et /26](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/6aae7bbf-07d8-4978-864f-88d70b1c2afd/calculer-la-plage-d-adresses-24-et-26)
+34. [Ajuster le sous-réseau pour un besoin](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/e6fe4127-e2e4-4fa6-8c8f-0932f40573b4/ajuster-le-sous-rseau-pour-un-besoin)
 
