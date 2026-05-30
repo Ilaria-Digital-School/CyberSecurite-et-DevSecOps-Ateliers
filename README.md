@@ -41,3 +41,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [33. Calculer la plage d’adresses /24 et /26](33-calculer-la-plage-d-adresses-24-et-26/)
 - [34. Ajuster le sous-réseau pour un besoin](34-ajuster-le-sous-r-seau-pour-un-besoin/)
 - [35. Lire la table de routage d’une VM Linux](35-lire-la-table-de-routage-d-une-vm-linux/)
+- [36. Suivre une connexion NATée avec iptables logs](36-suivre-une-connexion-nat-e-avec-iptables-logs/)
