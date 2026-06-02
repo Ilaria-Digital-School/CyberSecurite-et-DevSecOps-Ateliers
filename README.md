@@ -42,3 +42,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [34. Ajuster le sous-réseau pour un besoin](34-ajuster-le-sous-r-seau-pour-un-besoin/)
 - [35. Lire la table de routage d’une VM Linux](35-lire-la-table-de-routage-d-une-vm-linux/)
 - [36. Suivre une connexion NATée avec iptables logs](36-suivre-une-connexion-nat-e-avec-iptables-logs/)
+- [37. Résoudre et sniffer un lookup DNS](37-r-soudre-et-sniffer-un-lookup-dns/)
+- [38. Manipuler le fichier hosts pour override](38-manipuler-le-fichier-hosts-pour-override/)

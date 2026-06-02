@@ -48,4 +48,6 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 34. [Ajuster le sous-réseau pour un besoin](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/e6fe4127-e2e4-4fa6-8c8f-0932f40573b4/ajuster-le-sous-reseau-pour-un-besoin)
 35. [Lire la table de routage d’une VM Linux](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/4fc82097-c5c9-48e9-9dff-ab52e221cb35/lire-la-table-de-routage-d-une-vm-linux)
 36. [Suivre une connexion NATée avec iptables logs](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/3f005c87-216b-42a6-a681-506ddf2ae31a/suivre-une-connexion-natee-avec-iptables-logs)
+37. [Résoudre et sniffer un lookup DNS](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/dfb32da4-4766-4a04-a60e-779017810788/resoudre-et-sniffer-un-lookup-dns)
+38. [Manipuler le fichier hosts pour override](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/5002302b-7a54-4ccb-a0f6-36715f79be6b/manipuler-le-fichier-hosts-pour-override)
 
