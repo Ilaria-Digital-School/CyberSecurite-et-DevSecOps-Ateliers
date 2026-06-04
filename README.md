@@ -44,3 +44,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [36. Suivre une connexion NATée avec iptables logs](36-suivre-une-connexion-nat-e-avec-iptables-logs/)
 - [37. Résoudre et sniffer un lookup DNS](37-r-soudre-et-sniffer-un-lookup-dns/)
 - [38. Manipuler le fichier hosts pour override](38-manipuler-le-fichier-hosts-pour-override/)
+- [39. Analyser une requête HTTP dans Wireshark](39-analyser-une-requ-te-http-dans-wireshark/)
