@@ -51,4 +51,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 37. [Résoudre et sniffer un lookup DNS](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/dfb32da4-4766-4a04-a60e-779017810788/resoudre-et-sniffer-un-lookup-dns)
 38. [Manipuler le fichier hosts pour override](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/5002302b-7a54-4ccb-a0f6-36715f79be6b/manipuler-le-fichier-hosts-pour-override)
 39. [Analyser une requête HTTP dans Wireshark](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/a889cd4f-6ae8-49ed-83b2-663ec016907b/analyser-une-requete-http-dans-wireshark)
+40. [Trafic complet – de la requête HTTP à la réponse (diagramme annoté)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/8a66fef7-fdbd-45dd-b050-98bd354eb963/b33d9384-314e-48ca-8d8d-99981c20748f/trafic-complet-de-la-requete-http-a-la-reponse-diagramme-annote)
 

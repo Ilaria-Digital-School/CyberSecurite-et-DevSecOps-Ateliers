@@ -45,3 +45,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [37. Résoudre et sniffer un lookup DNS](37-r-soudre-et-sniffer-un-lookup-dns/)
 - [38. Manipuler le fichier hosts pour override](38-manipuler-le-fichier-hosts-pour-override/)
 - [39. Analyser une requête HTTP dans Wireshark](39-analyser-une-requ-te-http-dans-wireshark/)
+- [40. Trafic complet – de la requête HTTP à la réponse (diagramme annoté)](40-trafic-complet-de-la-requ-te-http-la-r-ponse-diagramme-annot/)
