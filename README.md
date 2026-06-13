@@ -48,3 +48,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [40. Trafic complet – de la requête HTTP à la réponse (diagramme annoté)](40-trafic-complet-de-la-requ-te-http-la-r-ponse-diagramme-annot/)
 - [41. Atelier : déclarer des variables et afficher leur type](41-atelier-d-clarer-des-variables-et-afficher-leur-type/)
 - [42. Atelier : Conversions de types et opérations simples](42-atelier-conversions-de-types-et-op-rations-simples/)
+- [43. Atelier : alerter si un port est réservé (<1024)](43-atelier-alerter-si-un-port-est-r-serv-1024/)
