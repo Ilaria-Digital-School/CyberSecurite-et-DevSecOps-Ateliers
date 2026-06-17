@@ -49,3 +49,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [41. Atelier : déclarer des variables et afficher leur type](41-atelier-d-clarer-des-variables-et-afficher-leur-type/)
 - [42. Atelier : Conversions de types et opérations simples](42-atelier-conversions-de-types-et-op-rations-simples/)
 - [43. Atelier : alerter si un port est réservé (<1024)](43-atelier-alerter-si-un-port-est-r-serv-1024/)
+- [44. Atelier : parcourir une séquence de ports avec for](44-atelier-parcourir-une-s-quence-de-ports-avec-for/)
+- [45. Atelier : Boucle while jusqu’à port 0](45-atelier-boucle-while-jusqu-port-0/)
