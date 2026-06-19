@@ -51,3 +51,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [43. Atelier : alerter si un port est réservé (<1024)](43-atelier-alerter-si-un-port-est-r-serv-1024/)
 - [44. Atelier : parcourir une séquence de ports avec for](44-atelier-parcourir-une-s-quence-de-ports-avec-for/)
 - [45. Atelier : Boucle while jusqu’à port 0](45-atelier-boucle-while-jusqu-port-0/)
+- [46. Atelier : créer hello.py paramétrable](46-atelier-cr-er-hello-py-param-trable/)

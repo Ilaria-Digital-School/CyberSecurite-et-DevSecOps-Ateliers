@@ -57,4 +57,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 43. [Atelier : alerter si un port est réservé (<1024)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/db0c6ac6-2395-46b0-a085-33165ee09602/atelier-alerter-si-un-port-est-reserve-1024)
 44. [Atelier : parcourir une séquence de ports avec for](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/9540f2fc-69ae-4bf5-918f-986d060dc930/atelier-parcourir-une-sequence-de-ports-avec-for)
 45. [Atelier : Boucle while jusqu’à port 0](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/865f96af-0bc9-4f01-b25a-ce37ee2b66fd/atelier-boucle-while-jusqu-a-port-0)
+46. [Atelier : créer hello.py paramétrable](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/dfc69709-28ef-4350-a334-7f70500ce552/atelier-creer-hello-py-parametrable)
 
