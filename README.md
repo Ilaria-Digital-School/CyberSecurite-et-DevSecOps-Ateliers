@@ -52,3 +52,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [44. Atelier : parcourir une séquence de ports avec for](44-atelier-parcourir-une-s-quence-de-ports-avec-for/)
 - [45. Atelier : Boucle while jusqu’à port 0](45-atelier-boucle-while-jusqu-port-0/)
 - [46. Atelier : créer hello.py paramétrable](46-atelier-cr-er-hello-py-param-trable/)
+- [47. Atelier : Simuler une tâche planifiée simple](47-atelier-simuler-une-t-che-planifi-e-simple/)
