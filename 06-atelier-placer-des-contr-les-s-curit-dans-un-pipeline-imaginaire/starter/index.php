@@ -1,2 +1,0 @@
-<?php
-// Atelier : placer des contrôles sécurité dans un pipeline imaginaire
