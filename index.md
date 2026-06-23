@@ -59,4 +59,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 45. [Atelier : Boucle while jusqu'à port 0](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/865f96af-0bc9-4f01-b25a-ce37ee2b66fd/atelier-boucle-while-jusqu-a-port-0)
 46. [Atelier : créer hello.py paramétrable](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/dfc69709-28ef-4350-a334-7f70500ce552/atelier-creer-hello-py-parametrable)
 47. [Atelier : Simuler une tâche planifiée simple](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/d839da2f-a9a6-4e17-b385-a6f4701ad44a/atelier-simuler-une-tache-planifiee-simple)
+48. [Atelier : fonction est_pair(port)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/a511e905-3138-4a70-b6d4-f368a2da209b/atelier-fonction-est-pair-port)
 
