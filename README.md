@@ -54,3 +54,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [46. Atelier : créer hello.py paramétrable](46-atelier-cr-er-hello-py-param-trable/)
 - [47. Atelier : Simuler une tâche planifiée simple](47-atelier-simuler-une-t-che-planifi-e-simple/)
 - [48. Atelier : fonction est_pair(port)](48-atelier-fonction-est-pair-port/)
+- [49. Atelier : mini-menu interactif pour choisir une action](49-atelier-mini-menu-interactif-pour-choisir-une-action/)
