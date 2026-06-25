@@ -61,4 +61,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 47. [Atelier : Simuler une tâche planifiée simple](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/d839da2f-a9a6-4e17-b385-a6f4701ad44a/atelier-simuler-une-tache-planifiee-simple)
 48. [Atelier : fonction est_pair(port)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/a511e905-3138-4a70-b6d4-f368a2da209b/atelier-fonction-est-pair-port)
 49. [Atelier : mini-menu interactif pour choisir une action](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/1d3b9d4e-11f0-4c8a-a31b-028df1b92f8d/atelier-mini-menu-interactif-pour-choisir-une-action)
+50. [Atelier : lire un log et compter les lignes ERROR](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/377d252b-6c9d-4272-a562-56ef7ef39b1f/atelier-lire-un-log-et-compter-les-lignes-error)
 
