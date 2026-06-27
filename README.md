@@ -56,3 +56,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [48. Atelier : fonction est_pair(port)](48-atelier-fonction-est-pair-port/)
 - [49. Atelier : mini-menu interactif pour choisir une action](49-atelier-mini-menu-interactif-pour-choisir-une-action/)
 - [50. Atelier : lire un log et compter les lignes ERROR](50-atelier-lire-un-log-et-compter-les-lignes-error/)
+- [51. Atelier : gérer FileNotFoundError sur le log](51-atelier-g-rer-filenotfounderror-sur-le-log/)
