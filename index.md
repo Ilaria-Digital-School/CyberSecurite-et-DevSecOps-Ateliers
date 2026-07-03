@@ -64,4 +64,6 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 50. [Atelier : lire un log et compter les lignes ERROR](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/377d252b-6c9d-4272-a562-56ef7ef39b1f/atelier-lire-un-log-et-compter-les-lignes-error)
 51. [Atelier : gérer FileNotFoundError sur le log](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/94044db3-5f54-4bdb-a07f-0334a8a10780/atelier-gerer-filenotfounderror-sur-le-log)
 52. [Atelier : créer utils.py et l'importer](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/300c5ad8-0b0a-4cf6-9953-9141400ece3a/atelier-creer-utils-py-et-l-importer)
+53. [Atelier : script qui exécute 'ping' et sauvegarde la sortie](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/124ee508-6ecf-4d77-9aab-d5f82719ded2/atelier-script-qui-execute-ping-et-sauvegarde-la-sortie)
+54. [Atelier : Paramétrer le nombre de paquets ping](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/eb846eec-a402-43bb-b96b-1ed73ee44ea6/atelier-parametrer-le-nombre-de-paquets-ping)
 

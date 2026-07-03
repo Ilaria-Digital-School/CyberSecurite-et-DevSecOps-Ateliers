@@ -58,3 +58,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [50. Atelier : lire un log et compter les lignes ERROR](50-atelier-lire-un-log-et-compter-les-lignes-error/)
 - [51. Atelier : gérer FileNotFoundError sur le log](51-atelier-g-rer-filenotfounderror-sur-le-log/)
 - [52. Atelier : créer utils.py et l'importer](52-atelier-cr-er-utils-py-et-l-importer/)
+- [53. Atelier : script qui exécute 'ping' et sauvegarde la sortie](53-atelier-script-qui-ex-cute-ping-et-sauvegarde-la-sortie/)
+- [54. Atelier : Paramétrer le nombre de paquets ping](54-atelier-param-trer-le-nombre-de-paquets-ping/)
