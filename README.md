@@ -60,3 +60,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [52. Atelier : créer utils.py et l'importer](52-atelier-cr-er-utils-py-et-l-importer/)
 - [53. Atelier : script qui exécute 'ping' et sauvegarde la sortie](53-atelier-script-qui-ex-cute-ping-et-sauvegarde-la-sortie/)
 - [54. Atelier : Paramétrer le nombre de paquets ping](54-atelier-param-trer-le-nombre-de-paquets-ping/)
+- [55. Atelier : créer une liste de ports et la parcourir](55-atelier-cr-er-une-liste-de-ports-et-la-parcourir/)
+- [56. Atelier : Dictionnaire port → service](56-atelier-dictionnaire-port-service/)

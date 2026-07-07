@@ -66,4 +66,6 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 52. [Atelier : créer utils.py et l'importer](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/300c5ad8-0b0a-4cf6-9953-9141400ece3a/atelier-creer-utils-py-et-l-importer)
 53. [Atelier : script qui exécute 'ping' et sauvegarde la sortie](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/124ee508-6ecf-4d77-9aab-d5f82719ded2/atelier-script-qui-execute-ping-et-sauvegarde-la-sortie)
 54. [Atelier : Paramétrer le nombre de paquets ping](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/eb846eec-a402-43bb-b96b-1ed73ee44ea6/atelier-parametrer-le-nombre-de-paquets-ping)
+55. [Atelier : créer une liste de ports et la parcourir](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/a6a9ac58-24ba-44d2-9758-884aa34fe0e2/atelier-creer-une-liste-de-ports-et-la-parcourir)
+56. [Atelier : Dictionnaire port → service](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/e89c3011-64d5-4bd3-b601-abcdf8a7b250/atelier-dictionnaire-port-service)
 
