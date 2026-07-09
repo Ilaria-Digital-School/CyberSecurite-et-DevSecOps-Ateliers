@@ -68,4 +68,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 54. [Atelier : Paramétrer le nombre de paquets ping](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/eb846eec-a402-43bb-b96b-1ed73ee44ea6/atelier-parametrer-le-nombre-de-paquets-ping)
 55. [Atelier : créer une liste de ports et la parcourir](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/a6a9ac58-24ba-44d2-9758-884aa34fe0e2/atelier-creer-une-liste-de-ports-et-la-parcourir)
 56. [Atelier : Dictionnaire port → service](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/e89c3011-64d5-4bd3-b601-abcdf8a7b250/atelier-dictionnaire-port-service)
+57. [Atelier : extraire toutes les adresses IP d'un log](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/2a1da0b5-e3ca-4dec-bee7-2634d1c125a3/atelier-extraire-toutes-les-adresses-ip-d-un-log)
 
