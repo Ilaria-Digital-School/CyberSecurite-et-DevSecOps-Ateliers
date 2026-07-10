@@ -63,3 +63,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [55. Atelier : créer une liste de ports et la parcourir](55-atelier-cr-er-une-liste-de-ports-et-la-parcourir/)
 - [56. Atelier : Dictionnaire port → service](56-atelier-dictionnaire-port-service/)
 - [57. Atelier : extraire toutes les adresses IP d'un log](57-atelier-extraire-toutes-les-adresses-ip-d-un-log/)
+- [58. Atelier : scanner les ports 20 à 25 d'une cible locale](58-atelier-scanner-les-ports-20-25-d-une-cible-locale/)

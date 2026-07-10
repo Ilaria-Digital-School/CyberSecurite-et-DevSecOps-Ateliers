@@ -1,0 +1,2 @@
+<?php
+// Atelier : scanner les ports 20 à 25 d'une cible locale
