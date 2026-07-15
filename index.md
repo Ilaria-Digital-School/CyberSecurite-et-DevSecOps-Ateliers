@@ -71,4 +71,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 57. [Atelier : extraire toutes les adresses IP d'un log](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/2a1da0b5-e3ca-4dec-bee7-2634d1c125a3/atelier-extraire-toutes-les-adresses-ip-d-un-log)
 58. [Atelier : scanner les ports 20 à 25 d'une cible locale](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/79fedb1a-c6a8-4322-a79b-8668a687c03f/atelier-scanner-les-ports-20-a-25-d-une-cible-locale)
 59. [Mini-projet étape 1 : wrapper Nmap (exécution + capture XML)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/3a866ece-7d9c-45bb-b210-4f08d94d42a4/mini-projet-etape-1-wrapper-nmap-execution-capture-xml)
+60. [Atelier : vérifier la présence de X-Frame-Options](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/e029f823-e7d4-48ff-9d26-5201870d02d1/atelier-verifier-la-presence-de-x-frame-options)
 
