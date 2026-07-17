@@ -73,4 +73,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 59. [Mini-projet étape 1 : wrapper Nmap (exécution + capture XML)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/3a866ece-7d9c-45bb-b210-4f08d94d42a4/mini-projet-etape-1-wrapper-nmap-execution-capture-xml)
 60. [Atelier : vérifier la présence de X-Frame-Options](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/e029f823-e7d4-48ff-9d26-5201870d02d1/atelier-verifier-la-presence-de-x-frame-options)
 61. [Atelier renforcé : appliquer les bonnes pratiques à hello.py](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/f7d5918f-a290-4632-8683-9d5909d4e534/atelier-renforce-appliquer-les-bonnes-pratiques-a-hello-py)
+62. [Mini-projet final : script d'audit basique (ping, nmap, headers) avec rapport](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/763d7742-4f86-49e5-9ed8-af9413683972/010b081b-f5f1-47fc-8f1f-e36370412021/mini-projet-final-script-d-audit-basique-ping-nmap-headers-avec-rapport)
 

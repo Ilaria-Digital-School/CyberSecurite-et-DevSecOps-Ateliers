@@ -67,3 +67,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [59. Mini-projet étape 1 : wrapper Nmap (exécution + capture XML)](59-mini-projet-tape-1-wrapper-nmap-ex-cution-capture-xml/)
 - [60. Atelier : vérifier la présence de X-Frame-Options](60-atelier-v-rifier-la-pr-sence-de-x-frame-options/)
 - [61. Atelier renforcé : appliquer les bonnes pratiques à hello.py](61-atelier-renforc-appliquer-les-bonnes-pratiques-hello-py/)
+- [62. Mini-projet final : script d'audit basique (ping, nmap, headers) avec rapport](62-mini-projet-final-script-d-audit-basique-ping-nmap-headers-avec-rapport/)
