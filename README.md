@@ -68,3 +68,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [60. Atelier : vérifier la présence de X-Frame-Options](60-atelier-v-rifier-la-pr-sence-de-x-frame-options/)
 - [61. Atelier renforcé : appliquer les bonnes pratiques à hello.py](61-atelier-renforc-appliquer-les-bonnes-pratiques-hello-py/)
 - [62. Mini-projet final : script d'audit basique (ping, nmap, headers) avec rapport](62-mini-projet-final-script-d-audit-basique-ping-nmap-headers-avec-rapport/)
+- [63. Premiers pas : pwd, ls, clear](63-premiers-pas-pwd-ls-clear/)
+- [64. Navigation (cd, chemins)](64-navigation-cd-chemins/)
