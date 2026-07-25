@@ -71,3 +71,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [63. Premiers pas : pwd, ls, clear](63-premiers-pas-pwd-ls-clear/)
 - [64. Navigation (cd, chemins)](64-navigation-cd-chemins/)
 - [65. Explorer avec tree](65-explorer-avec-tree/)
+- [66. Copier, déplacer et supprimer en toute sécurité](66-copier-d-placer-et-supprimer-en-toute-s-curit/)
