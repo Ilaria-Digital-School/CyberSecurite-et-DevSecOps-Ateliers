@@ -78,4 +78,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 64. [Navigation (cd, chemins)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/1c88c030-28b8-4571-969f-f31792c8209d/navigation-cd-chemins)
 65. [Explorer avec tree](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/8ca6fb16-81f4-4cc3-aa05-f248e556fa8f/explorer-avec-tree)
 66. [Copier, déplacer et supprimer en toute sécurité](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/5fee5277-8568-4c14-b819-20cf76261947/copier-deplacer-et-supprimer-en-toute-securite)
+67. [chmod symbolique pas à pas](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/c57495ed-c8d3-4b11-911d-b3efa5d30ac5/chmod-symbolique-pas-a-pas)
 
