@@ -73,3 +73,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [65. Explorer avec tree](65-explorer-avec-tree/)
 - [66. Copier, déplacer et supprimer en toute sécurité](66-copier-d-placer-et-supprimer-en-toute-s-curit/)
 - [67. chmod symbolique pas à pas](67-chmod-symbolique-pas-pas/)
+- [68. chmod numérique 755/644](68-chmod-num-rique-755-644/)
