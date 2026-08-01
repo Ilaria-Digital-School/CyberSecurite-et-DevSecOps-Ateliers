@@ -75,3 +75,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [67. chmod symbolique pas à pas](67-chmod-symbolique-pas-pas/)
 - [68. chmod numérique 755/644](68-chmod-num-rique-755-644/)
 - [69. chown et chgrp](69-chown-et-chgrp/)
+- [70. Sécuriser un dossier partagé](70-s-curiser-un-dossier-partag/)

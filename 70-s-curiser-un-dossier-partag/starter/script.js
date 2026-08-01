@@ -1,0 +1,1 @@
+// Sécuriser un dossier partagé
