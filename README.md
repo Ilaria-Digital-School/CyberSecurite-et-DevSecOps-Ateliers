@@ -77,3 +77,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [69. chown et chgrp](69-chown-et-chgrp/)
 - [70. Sécuriser un dossier partagé](70-s-curiser-un-dossier-partag/)
 - [71. Lister et filtrer les processus](71-lister-et-filtrer-les-processus/)
+- [72. Signaux et kill en pratique](72-signaux-et-kill-en-pratique/)
