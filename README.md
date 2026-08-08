@@ -78,3 +78,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [70. Sécuriser un dossier partagé](70-s-curiser-un-dossier-partag/)
 - [71. Lister et filtrer les processus](71-lister-et-filtrer-les-processus/)
 - [72. Signaux et kill en pratique](72-signaux-et-kill-en-pratique/)
+- [73. Démarrer, arrêter, activer un service](73-d-marrer-arr-ter-activer-un-service/)
