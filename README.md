@@ -79,3 +79,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [71. Lister et filtrer les processus](71-lister-et-filtrer-les-processus/)
 - [72. Signaux et kill en pratique](72-signaux-et-kill-en-pratique/)
 - [73. Démarrer, arrêter, activer un service](73-d-marrer-arr-ter-activer-un-service/)
+- [74. Identifier interfaces et ports ouverts](74-identifier-interfaces-et-ports-ouverts/)

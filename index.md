@@ -85,4 +85,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 71. [Lister et filtrer les processus](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/9f06dece-0c1a-4ffc-8d88-3cf30f1d7b10/lister-et-filtrer-les-processus)
 72. [Signaux et kill en pratique](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/428f5257-9d78-40bc-9b8a-6c0ebab9dd6d/signaux-et-kill-en-pratique)
 73. [Démarrer, arrêter, activer un service](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/088a917a-ebb7-4602-9f1e-383797d4ab26/demarrer-arreter-activer-un-service)
+74. [Identifier interfaces et ports ouverts](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/da09a465-4b54-442c-9b92-0f9c28774411/identifier-interfaces-et-ports-ouverts)
 
