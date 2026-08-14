@@ -81,3 +81,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [73. Démarrer, arrêter, activer un service](73-d-marrer-arr-ter-activer-un-service/)
 - [74. Identifier interfaces et ports ouverts](74-identifier-interfaces-et-ports-ouverts/)
 - [75. Documenter l’état réseau](75-documenter-l-tat-r-seau/)
+- [76. Installer nmap et wireshark](76-installer-nmap-et-wireshark/)
