@@ -88,4 +88,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 74. [Identifier interfaces et ports ouverts](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/da09a465-4b54-442c-9b92-0f9c28774411/identifier-interfaces-et-ports-ouverts)
 75. [Documenter l’état réseau](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/ac4c47d6-ebc6-44a9-96ad-87b41906d849/documenter-l-etat-reseau)
 76. [Installer nmap et wireshark](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/3f363d22-dcb8-4f65-b16b-0d7b4e174ec3/installer-nmap-et-wireshark)
+77. [Écrire un script de sauvegarde de /etc](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/ecabbc30-e1d8-4a82-8f3f-cb888606f6b4/ecrire-un-script-de-sauvegarde-de-etc)
 

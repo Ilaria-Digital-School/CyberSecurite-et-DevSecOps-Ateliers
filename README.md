@@ -82,3 +82,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [74. Identifier interfaces et ports ouverts](74-identifier-interfaces-et-ports-ouverts/)
 - [75. Documenter l’état réseau](75-documenter-l-tat-r-seau/)
 - [76. Installer nmap et wireshark](76-installer-nmap-et-wireshark/)
+- [77. Écrire un script de sauvegarde de /etc](77-crire-un-script-de-sauvegarde-de-etc/)
