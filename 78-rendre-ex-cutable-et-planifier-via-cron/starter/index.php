@@ -1,0 +1,2 @@
+<?php
+// Rendre exécutable et planifier via cron
