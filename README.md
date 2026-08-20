@@ -84,3 +84,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [76. Installer nmap et wireshark](76-installer-nmap-et-wireshark/)
 - [77. Écrire un script de sauvegarde de /etc](77-crire-un-script-de-sauvegarde-de-etc/)
 - [78. Rendre exécutable et planifier via cron](78-rendre-ex-cutable-et-planifier-via-cron/)
+- [79. Créer un utilisateur pentest restreint](79-cr-er-un-utilisateur-pentest-restreint/)
