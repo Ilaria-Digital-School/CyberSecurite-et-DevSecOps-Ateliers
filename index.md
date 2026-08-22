@@ -91,4 +91,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 77. [Écrire un script de sauvegarde de /etc](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/ecabbc30-e1d8-4a82-8f3f-cb888606f6b4/ecrire-un-script-de-sauvegarde-de-etc)
 78. [Rendre exécutable et planifier via cron](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/34dc3689-0cd2-469a-a541-55a01be15081/rendre-executable-et-planifier-via-cron)
 79. [Créer un utilisateur pentest restreint](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/5735047c-0fa5-4857-8a9c-8f95f2cbb59f/creer-un-utilisateur-pentest-restreint)
+80. [Analyser /var/log/auth.log pour détections](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/110dbe8e-cdec-49b7-8919-c9220f10ccf9/analyser-var-log-auth-log-pour-detections)
 
