@@ -1,0 +1,1 @@
+// Appliquer une checklist de hardening sur VM labo
