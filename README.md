@@ -88,3 +88,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [80. Analyser /var/log/auth.log pour détections](80-analyser-var-log-auth-log-pour-d-tections/)
 - [81. Appliquer une checklist de hardening sur VM labo](81-appliquer-une-checklist-de-hardening-sur-vm-labo/)
 - [82. Repérer les actifs dans une application "Todo List"](82-rep-rer-les-actifs-dans-une-application-todo-list/)
+- [83. Classer impacts CIA sur les actifs de la Todo List](83-classer-impacts-cia-sur-les-actifs-de-la-todo-list/)

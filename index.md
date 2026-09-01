@@ -94,4 +94,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 80. [Analyser /var/log/auth.log pour détections](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/110dbe8e-cdec-49b7-8919-c9220f10ccf9/analyser-var-log-auth-log-pour-detections)
 81. [Appliquer une checklist de hardening sur VM labo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/aae73605-d685-44d2-a9da-5309494ab1c3/appliquer-une-checklist-de-hardening-sur-vm-labo)
 82. [Repérer les actifs dans une application "Todo List"](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/c882bb54-e298-47f6-a7d2-cf7b2bd66458/reperer-les-actifs-dans-une-application-todo-list)
+83. [Classer impacts CIA sur les actifs de la Todo List](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/e517e89f-cc6a-45a6-b524-ad92f8d24498/classer-impacts-cia-sur-les-actifs-de-la-todo-list)
 
