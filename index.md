@@ -95,4 +95,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 81. [Appliquer une checklist de hardening sur VM labo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/ecc48bb2-5471-4708-892b-39238ea24fdb/aae73605-d685-44d2-a9da-5309494ab1c3/appliquer-une-checklist-de-hardening-sur-vm-labo)
 82. [Repérer les actifs dans une application "Todo List"](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/c882bb54-e298-47f6-a7d2-cf7b2bd66458/reperer-les-actifs-dans-une-application-todo-list)
 83. [Classer impacts CIA sur les actifs de la Todo List](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/e517e89f-cc6a-45a6-b524-ad92f8d24498/classer-impacts-cia-sur-les-actifs-de-la-todo-list)
+84. [Associer scénarios de risques à OWASP Top 10 (cartes)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/23dbdbba-d83f-4a28-8826-037980585af1/associer-scenarios-de-risques-a-owasp-top-10-cartes)
 
