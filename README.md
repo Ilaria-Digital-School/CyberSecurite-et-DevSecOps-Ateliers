@@ -91,3 +91,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [83. Classer impacts CIA sur les actifs de la Todo List](83-classer-impacts-cia-sur-les-actifs-de-la-todo-list/)
 - [84. Associer scénarios de risques à OWASP Top 10 (cartes)](84-associer-sc-narios-de-risques-owasp-top-10-cartes/)
 - [85. Décomposer l’application Blog simplifiée en composants](85-d-composer-l-application-blog-simplifi-e-en-composants/)
+- [86. Appliquer STRIDE sur le flux d’authentification](86-appliquer-stride-sur-le-flux-d-authentification/)
