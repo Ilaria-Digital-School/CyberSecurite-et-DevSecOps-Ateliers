@@ -92,3 +92,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [84. Associer scénarios de risques à OWASP Top 10 (cartes)](84-associer-sc-narios-de-risques-owasp-top-10-cartes/)
 - [85. Décomposer l’application Blog simplifiée en composants](85-d-composer-l-application-blog-simplifi-e-en-composants/)
 - [86. Appliquer STRIDE sur le flux d’authentification](86-appliquer-stride-sur-le-flux-d-authentification/)
+- [87. STRIDE sur un endpoint API "create post"](87-stride-sur-un-endpoint-api-create-post/)

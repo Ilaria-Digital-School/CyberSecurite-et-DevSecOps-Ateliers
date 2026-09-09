@@ -98,4 +98,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 84. [Associer scénarios de risques à OWASP Top 10 (cartes)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/23dbdbba-d83f-4a28-8826-037980585af1/associer-scenarios-de-risques-a-owasp-top-10-cartes)
 85. [Décomposer l’application Blog simplifiée en composants](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/8e751632-c45a-4637-9474-57b643971ed4/decomposer-l-application-blog-simplifiee-en-composants)
 86. [Appliquer STRIDE sur le flux d’authentification](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/d15bb898-d4aa-4a55-b636-4f114a27abdf/appliquer-stride-sur-le-flux-d-authentification)
+87. [STRIDE sur un endpoint API "create post"](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/2dbc9d4f-4c4f-4d6c-a5eb-c0374b7d09b1/stride-sur-un-endpoint-api-create-post)
 
