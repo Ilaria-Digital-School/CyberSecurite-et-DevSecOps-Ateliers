@@ -100,4 +100,6 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 86. [Appliquer STRIDE sur le flux d’authentification](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/d15bb898-d4aa-4a55-b636-4f114a27abdf/appliquer-stride-sur-le-flux-d-authentification)
 87. [STRIDE sur un endpoint API "create post"](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/2dbc9d4f-4c4f-4d6c-a5eb-c0374b7d09b1/stride-sur-un-endpoint-api-create-post)
 88. [Dessiner le DFD de l’application Blog](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/58fe673f-9581-459c-b386-2fbec3c8368d/dessiner-le-dfd-de-l-application-blog)
+89. [Identifier les menaces STRIDE dans le DFD](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/ce7ac977-12c8-4c69-9ef7-b13797575696/identifier-les-menaces-stride-dans-le-dfd)
+90. [Fil rouge – Construire une matrice de menaces complète pour le Blog](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/07ab2f89-adbc-4853-95fe-1fff9e5a9abb/fil-rouge-construire-une-matrice-de-menaces-complete-pour-le-blog)
 
