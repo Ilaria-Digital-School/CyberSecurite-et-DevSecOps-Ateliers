@@ -97,3 +97,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [89. Identifier les menaces STRIDE dans le DFD](89-identifier-les-menaces-stride-dans-le-dfd/)
 - [90. Fil rouge – Construire une matrice de menaces complète pour le Blog](90-fil-rouge-construire-une-matrice-de-menaces-compl-te-pour-le-blog/)
 - [91. Évaluer le Blog face aux principes de conception sécurisée](91-valuer-le-blog-face-aux-principes-de-conception-s-curis-e/)
+- [92. Adapter les principes à un microservice d’upload de fichiers](92-adapter-les-principes-un-microservice-d-upload-de-fichiers/)
