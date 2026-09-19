@@ -105,4 +105,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 91. [Évaluer le Blog face aux principes de conception sécurisée](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/47ea3cb3-f52a-48cc-be46-da6edf951392/evaluer-le-blog-face-aux-principes-de-conception-securisee)
 92. [Adapter les principes à un microservice d’upload de fichiers](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/7ac84e06-2e3a-4cb3-935c-a221f327b8d2/adapter-les-principes-a-un-microservice-d-upload-de-fichiers)
 93. [Cartographier la surface d’attaque du Blog](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/1f1aab6b-ddd1-4a92-9074-19f3978de9fb/cartographier-la-surface-d-attaque-du-blog)
+94. [Scorer les menaces précédentes avec OWASP Risk Rating](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/30bf3883-0829-4248-809c-e8f6f98c10d0/scorer-les-menaces-precedentes-avec-owasp-risk-rating)
 

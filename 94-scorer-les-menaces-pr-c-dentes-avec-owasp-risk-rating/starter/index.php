@@ -1,0 +1,2 @@
+<?php
+// Scorer les menaces précédentes avec OWASP Risk Rating
