@@ -100,3 +100,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [92. Adapter les principes à un microservice d’upload de fichiers](92-adapter-les-principes-un-microservice-d-upload-de-fichiers/)
 - [93. Cartographier la surface d’attaque du Blog](93-cartographier-la-surface-d-attaque-du-blog/)
 - [94. Scorer les menaces précédentes avec OWASP Risk Rating](94-scorer-les-menaces-pr-c-dentes-avec-owasp-risk-rating/)
+- [95. Varier le scoring sur une API d’e-commerce](95-varier-le-scoring-sur-une-api-d-e-commerce/)
