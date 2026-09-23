@@ -101,3 +101,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [93. Cartographier la surface d’attaque du Blog](93-cartographier-la-surface-d-attaque-du-blog/)
 - [94. Scorer les menaces précédentes avec OWASP Risk Rating](94-scorer-les-menaces-pr-c-dentes-avec-owasp-risk-rating/)
 - [95. Varier le scoring sur une API d’e-commerce](95-varier-le-scoring-sur-une-api-d-e-commerce/)
+- [96. Élaborer une checklist de tests à partir du modèle de menaces](96-laborer-une-checklist-de-tests-partir-du-mod-le-de-menaces/)
+- [97. Adapter la checklist à une API publique tierce](97-adapter-la-checklist-une-api-publique-tierce/)
