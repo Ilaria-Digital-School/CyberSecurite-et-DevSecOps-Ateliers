@@ -109,4 +109,5 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 95. [Varier le scoring sur une API d’e-commerce](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/01fef874-d160-4a7d-a991-9e60a62e6185/varier-le-scoring-sur-une-api-d-e-commerce)
 96. [Élaborer une checklist de tests à partir du modèle de menaces](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/384aa73d-0426-4b05-9fbd-97c524880c82/elaborer-une-checklist-de-tests-a-partir-du-modele-de-menaces)
 97. [Adapter la checklist à une API publique tierce](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/55b504ec-edd3-4010-9e2f-e8c5315b7f83/adapter-la-checklist-a-une-api-publique-tierce)
+98. [Prise en main d’OWASP Threat Dragon sur le projet Blog](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/fr/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/76c74173-3a44-4bd3-981e-465badd272f0/prise-en-main-d-owasp-threat-dragon-sur-le-projet-blog)
 

@@ -103,3 +103,4 @@ Devenir Spécialiste CyberSecurité & DevSecOps : Comprendre les risques d’une
 - [95. Varier le scoring sur une API d’e-commerce](95-varier-le-scoring-sur-une-api-d-e-commerce/)
 - [96. Élaborer une checklist de tests à partir du modèle de menaces](96-laborer-une-checklist-de-tests-partir-du-mod-le-de-menaces/)
 - [97. Adapter la checklist à une API publique tierce](97-adapter-la-checklist-une-api-publique-tierce/)
+- [98. Prise en main d’OWASP Threat Dragon sur le projet Blog](98-prise-en-main-d-owasp-threat-dragon-sur-le-projet-blog/)
