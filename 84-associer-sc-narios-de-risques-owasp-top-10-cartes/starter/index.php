@@ -1,2 +1,0 @@
-<?php
-// Associer scénarios de risques à OWASP Top 10 (cartes)

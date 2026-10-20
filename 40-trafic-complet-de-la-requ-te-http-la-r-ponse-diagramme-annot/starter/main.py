@@ -1,1 +1,0 @@
-# Trafic complet – de la requête HTTP à la réponse (diagramme annoté)

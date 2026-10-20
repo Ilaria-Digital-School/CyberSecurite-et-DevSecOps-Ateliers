@@ -1,2 +1,0 @@
-<?php
-// Atelier : script qui exécute 'ping' et sauvegarde la sortie

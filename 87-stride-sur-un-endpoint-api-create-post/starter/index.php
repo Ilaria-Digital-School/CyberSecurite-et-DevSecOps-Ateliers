@@ -1,2 +1,0 @@
-<?php
-// STRIDE sur un endpoint API "create post"

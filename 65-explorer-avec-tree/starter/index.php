@@ -1,2 +1,0 @@
-<?php
-// Explorer avec tree

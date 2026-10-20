@@ -1,2 +1,0 @@
-<?php
-// Copier, déplacer et supprimer en toute sécurité

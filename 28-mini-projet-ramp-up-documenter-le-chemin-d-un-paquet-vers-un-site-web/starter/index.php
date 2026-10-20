@@ -1,2 +1,0 @@
-<?php
-// Mini-projet ramp-up : documenter le chemin d’un paquet vers un site web

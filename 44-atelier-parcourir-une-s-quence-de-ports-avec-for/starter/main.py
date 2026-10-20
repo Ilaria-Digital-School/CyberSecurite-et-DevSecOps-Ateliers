@@ -1,1 +1,0 @@
-# Atelier : parcourir une séquence de ports avec for

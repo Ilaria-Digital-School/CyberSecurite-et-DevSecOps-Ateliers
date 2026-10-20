@@ -1,2 +1,0 @@
-<?php
-// Atelier : extraire les informations clés du rapport
