@@ -1,0 +1,1 @@
+// Choisir le bon câble (scénario interactif)

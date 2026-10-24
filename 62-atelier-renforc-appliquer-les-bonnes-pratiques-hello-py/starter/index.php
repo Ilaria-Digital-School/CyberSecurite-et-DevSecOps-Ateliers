@@ -1,0 +1,2 @@
+<?php
+// Atelier renforcé : appliquer les bonnes pratiques à hello.py

@@ -1,0 +1,2 @@
+<?php
+// Analyser trois cyberattaques connues avec ce vocabulaire

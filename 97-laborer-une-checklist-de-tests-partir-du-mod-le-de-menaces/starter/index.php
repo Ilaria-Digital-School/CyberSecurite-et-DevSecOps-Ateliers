@@ -1,0 +1,2 @@
+<?php
+// Élaborer une checklist de tests à partir du modèle de menaces
