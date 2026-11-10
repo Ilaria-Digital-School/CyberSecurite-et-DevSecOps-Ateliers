@@ -1,0 +1,2 @@
+<?php
+// Créer votre première machine virtuelle Linux
