@@ -1,0 +1,2 @@
+<?php
+// Varier le scoring sur une API d’e-commerce

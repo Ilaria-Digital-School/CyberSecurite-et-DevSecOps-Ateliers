@@ -1,0 +1,2 @@
+<?php
+// Installer votre première cible d'entraînement dans le laboratoire isolé
