@@ -1,0 +1,2 @@
+<?php
+// Restaurer votre laboratoire après une fausse manipulation
